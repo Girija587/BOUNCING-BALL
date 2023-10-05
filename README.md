@@ -19,6 +19,8 @@ Your objective in Bouncing Balls is to remove the line of brightly colored balls
 
 5. **Advance Strategy:** As the wall advances, the challenge intensifies. Plan your shots carefully and think ahead to ensure you clear the balls before they reach the bottom line. The game gets progressively more challenging as you advance through levels.
 
+![start_display](https://github.com/Girija587/BOUNCING-BALL/assets/125687551/03e90d99-61c0-4cd5-8df8-72a57ad0a6c3)
+
 ## How to Play
 
 1. Launch the game and familiarize yourself with the aiming mechanics of the cannon.
